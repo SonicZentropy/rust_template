@@ -1,0 +1,12 @@
+[package]
+name = "rust_template"
+version = "1.0.0"
+authors = ["Casey Bailey <SonicZentropy@gmail.com>"]
+edition = "2021"
+resolver = "2"
+
+[dependencies]
+anyhow = "^1.0"
+tracing = "^0.1"
+tracing-subscriber = "0.3.5"
+zen_utils = "0.1.1"
